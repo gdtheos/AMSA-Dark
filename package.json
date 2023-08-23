@@ -5,7 +5,7 @@
   "version": "0.0.2",
   "publisher": "gdtheos",
   "engines": {
-    "vscode": "^1.81.0"
+    "vscode": "^1.79.0"
   },
   "repository": {
     "type": "git",
