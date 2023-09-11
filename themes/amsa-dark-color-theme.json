@@ -144,6 +144,13 @@
       }
     },
     {
+      "name": "Python Literal Int/Double",
+      "scope": "constant.numeric.dec.python",
+      "settings": {
+        "foreground": "#EF757B"
+      }
+    },
+    {
       "name": "Java Literal Boolean",
       "scope": "constant.language.java",
       "settings": {
@@ -162,13 +169,6 @@
       "scope": "keyword.operator.channel",
       "settings": {
         "foreground": "#00b5a8"
-      }
-    },
-    {
-      "name": "support.constant.property-value.scss",
-      "scope": "support.constant.property-value.scss,support.constant.property-value.css",
-      "settings": {
-        "foreground": "#ffffff"
       }
     },
     {
@@ -377,27 +377,6 @@
       "scope": "constant.other.symbol",
       "settings": {
         "foreground": "#00b5a8"
-      }
-    },
-    {
-      "name": "Integers",
-      "scope": "constant.numeric",
-      "settings": {
-        "foreground": "#ffffff"
-      }
-    },
-    {
-      "name": "Constants",
-      "scope": "constant",
-      "settings": {
-        "foreground": "#ffffff"
-      }
-    },
-    {
-      "name": "Constants",
-      "scope": "punctuation.definition.constant",
-      "settings": {
-        "foreground": "#ffffff"
       }
     },
     {
